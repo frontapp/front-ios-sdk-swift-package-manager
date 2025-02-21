@@ -20,7 +20,7 @@ let package = Package(
         .binaryTarget(
             name: "FrontSdk",
             url: "https://github.com/frontapp/front-ios-sdk-swift-package-manager/releases/download/0.0.0-alpha.1/FrontSdk-0.0.0-alpha.1.zip",
-            checksum: "b100a4dd265648a4535ac9dc02dcf4e7b8abbd1a2c9cb88b336cd1e15f64db23"
+            checksum: "aa671da1f16afe7bde88bc14b0d5659b52c9f05f88775e7115c13fed3850f5eb"
         ),
         .testTarget(
             name: "FrontSdkTests",
