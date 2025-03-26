@@ -19,8 +19,8 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "FrontSdk",
-            url: "https://github.com/frontapp/front-ios-sdk-swift-package-manager/releases/download/0.0.0-beta.1/FrontSdk-0.0.0-beta.1.zip",
-            checksum: "35570306d606477c935887627504c0b8c2cdaf69cbeb22b3fd25ee4832202fa4"
+            url: "https://github.com/frontapp/front-ios-sdk-swift-package-manager/releases/download/0.0.0-beta.2/FrontSdk-0.0.0-beta.2.zip",
+            checksum: "1abe2d8877bb05ed0ff8ca37b8577bff0418c88a109b0b576f8d04e3acc53f1c"
         ),
         .testTarget(
             name: "FrontSdkTests",
