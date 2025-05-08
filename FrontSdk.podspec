@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FrontSdk'
-  s.version          = '0.1.0-beta'
+  s.version          = '0.0.1-beta'
   s.summary          = 'The official Front SDK for iOS applications.' 
   
   s.homepage         = 'https://dev.frontapp.com/docs/'
